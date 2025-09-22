@@ -11,4 +11,7 @@ It supports:
 The program uses:
 - **Methods** for each operation  
 - **Scanner** for user input  
-- A **loop** to allow multiple calculations until the user chooses to exit  
+- A **loop** to allow multiple calculations until the user chooses to exit
+
+- 
+![Uploading Screenshot (237).png…]()
